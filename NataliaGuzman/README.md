@@ -21,5 +21,5 @@
 
 ---
 
-Soy una desarrolladora Full Stack JavaScript con experiencia en la creación de aplicaciones web. Me apasiona la tecnología, la innovación y el aprendizaje
+Soy una ingeniera multimedia con enfasis en el desarrollo Full Stack JavaScript tengo experiencia en la creación de aplicaciones web. Me apasiona la tecnología, la innovación y el aprendizaje
 continuo. Tengo experiencia trabajando con JavaScript, React, Node.js y bases de datos SQL.
